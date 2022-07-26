@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example.",
+      "img": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxMDkzMDQ3Njc0NzQ4/jayz.jpg",
+      "author": "Jungle Fever"
+    },
+    {
+      "title": "Khaligraph Jones",
+      "content": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "img": "https://mdundo.com/media/picture/152_P47RHGM8oA1iHTBb9FsXTfdHC24a_b.jpg ",
+      "author": " L.rock",
+      "id": 3
+    },
+    {
+      "title": "21 Savage",
+      "content": " He began his career at the backend of 2014. 21 Savage started by releasing a lot of mix-tapes and he was able to showcase his talent right away. People saw that talent and gravitated towards his work pretty quickly. It was quite evident in 2016 that his hard work paid off as his EP Savage Mode reached the Billboard Top 200, impressive achievement for sure. “Issa Album” is his debut studio album that got released in 2016. Just like his previous work, this one saw big success as well as it also made the billboard charts. No doubt that this was a great stepping stone for 21 Savage.",
+      "img": "https://i.guim.co.uk/img/media/812da1e53127011a8adb395045c69722305dbef6/0_0_1548_929/master/1548.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cc4234292c2af1e002d63389c0f99b59",
+      "author": " Savage Mode",
+      "id": 4
+    },
+    {
+      "title": "ASAP ROCKY",
+      "content": " The rapper released his debut mixtape, Live. Love. A$AP, in 2011 and soon landed a record deal. His first studio album, Long. Live. A$AP, debuted at No. 1 on the Billboard 200 in 2013, and his second album, At. Long. Last. A$AP, also dropped at the top spot in 2015. His third album, Testing, was released in 2018.",
+      "img": " https://www.thefamouspeople.com/profiles/images/asap-rocky-7.jpg",
+      "author": " Asap JR",
+      "id": 5
+    }
+  ]
+}
